@@ -1,0 +1,54 @@
+body{
+    margin: 30px;
+}
+
+.table1{
+    width: 100%;
+   
+}
+h1{
+    background-color: rgb(1, 1, 206);
+    color: wheat;
+    font-size: 40px;
+    /* border: solid 1px black; */
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+}
+
+tr{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.purple{
+    background-color: plum;
+}
+.blue{
+    background-color: skyblue;
+}
+.lightyellow{
+    background-color: rgb(252, 252, 5);
+}
+.pink{
+    background-color: pink;
+}
+.lightgreen{
+    background-color: rgb(79, 245, 79);
+}
+.brown{
+    background-color: rgb(182, 79, 79);
+}
+.orange{
+    background-color: orange;
+}
+.lightbrown{
+    background-color: rgb(245, 198, 150);
+}
+.silver{
+    background-color: rgb(172, 165, 165);
+}
+.darkorange{
+    background-color: orangered;
+}
